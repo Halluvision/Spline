@@ -1,0 +1,17 @@
+{
+  "name": "com.Halluvision.Spline",
+  "version": "0.1.0",
+  "displayName": "Bezier Spline",
+  "description": "This is an example package",
+  "unity": "2021.3",
+  "unityRelease": "8f1",
+  "keywords": [
+    "Bezier",
+    "Spline",
+    "Curve"
+  ],
+  "author": {
+    "name": "Halluvision",
+    "email": "halluvision@gmail.com",
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Halluvision.Spline.Editor",
+    "rootNamespace": "Halluvision.Spline",
+    "references": [
+        "GUID:9fa86397e0abd5a4ab824b641d3391a7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
